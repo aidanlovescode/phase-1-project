@@ -21,3 +21,5 @@ Works offline by caching data into a database.
 write code in js
 
 make application interactive so users can easily search and view movie information with just a click
+use fetch to get Movies Data
+Data retrieved is used in DomManipulation to achieve desired goals for this project
