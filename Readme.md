@@ -1,4 +1,4 @@
-Architecture a
+Architecture
 
 Has a clean, gorgeous user interface with pretty animations, built using Javascript framework including html, and Material Components 
 
