@@ -9,8 +9,9 @@ Uses Retrofit for making API calls.
 Uses Glide for image loading.
 
 Built on a Single-Activity Architecture. Every screen in the app is a fragment.
-Features
 
+
+Features
 
 Discover Top Rated and Popular movies on demand.
 Search for movies
@@ -18,4 +19,3 @@ View movie details like release date, rating, overview, movie trailer and cast r
 Supports search button to access Watchlist and Favourite movies
 View movies in theatres in your region.
 Works offline by caching data into a database.
-
